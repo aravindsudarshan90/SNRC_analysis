@@ -1,0 +1,4 @@
+streamlit==0.88.0
+plotly==5.3.1
+pandas==1.2.3
+pymongo==3.11.2
